@@ -1,0 +1,16 @@
+{
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "Smart Expense Tracker",
+    "short_name": "SET",
+    "description": "smart expense tracker in nextjs",
+    "icon": [
+        {
+            "src": "/vercel.svg",
+            "type": "image/svg"
+        }
+    ]
+}

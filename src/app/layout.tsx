@@ -28,6 +28,8 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <title>Finance Tracker</title>
+        <link rel="manifest" href="/manifest.json" />
+        <meta name="theme-color" content="#ffffff" />
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
